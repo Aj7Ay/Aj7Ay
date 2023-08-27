@@ -26,6 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aj7ay&show_icons=true&locale=en" alt="aj7ay" /></p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Aj7Ay/Aj7Ay/blob/output/github-contribution-grid-snake.svg)
 
