@@ -3,7 +3,7 @@
 </h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/Aj7Ay/Aj7Ay/main/Banner.png"> </div>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif]">
+<img align="right" alt="Coding" width="400" src="(https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7ay&label=Profile%20views&color=0e75b6&style=flat" alt="aj7ay" /> </p>
 
 - 🌱 I’m currently working as **DevSecOps Engineer at HYSN**
