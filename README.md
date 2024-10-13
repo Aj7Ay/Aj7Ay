@@ -5,13 +5,15 @@
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7ay&label=Profile%20views&color=0e75b6&style=flat" alt="aj7ay" /> </p>
 
-- 🌱 I’m currently working as **DevSecOps Engineer at HYSN**
+- 🌱 I’m currently working as **DevSecOps Engineer at Practical DevSecOps**
 
 - 👯 Youtube channel [Mr cloud book](https://www.youtube.com/@mr.cloudbook)
 
-- 🤝 All Youtube classes Notes is here [Youtube Notes](https://github.com/Aj7Ay/youtube_notes.git)
+- 🤝 All Youtube Blogs are here [Blogs](https://mrcloudbook.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aj7Ay](https://github.com/Aj7Ay)
+
+- New Kubernetes Masterclass starts from Oct 31 2024 ( CKA )
 
 - 📫 How to reach me **postbox.aj99@gmail.com**
 
