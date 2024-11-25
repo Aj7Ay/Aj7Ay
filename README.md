@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aj7Ay](https://github.com/Aj7Ay)
 
-- New Kubernetes Masterclass starts from December 01 2024 ( CKA ) 
+- New Kubernetes Masterclass starts from Jan 01 2025 ( CKA ) 
 
 - 📫 How to reach me **postbox.aj99@gmail.com**
 
