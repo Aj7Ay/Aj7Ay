@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ajay+Kumar+Yegireddi!;" />
 </h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/Aj7Ay/Aj7Ay/main/Banner.png"> </div>
-<h3 align="center">CEO MR CLOUD BOO || SENIOR SRE & AI ENGINEER & SYSTEM ADMIN | AWS COMMUNITY BUILDER | DOCKER CAPTAIN </h3>
+<h3 align="center">CEO MR CLOUD BOOK || SENIOR SRE & AI ENGINEER & SYSTEM ADMIN | AWS COMMUNITY BUILDER | DOCKER CAPTAIN </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7ay&label=Profile%20views&color=0e75b6&style=flat" alt="aj7ay" /> </p>
 
 - 🌱 I’m currently working as **DevSecOps Engineer at Practical DevSecOps**
